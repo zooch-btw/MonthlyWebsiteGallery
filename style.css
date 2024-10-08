@@ -1,0 +1,36 @@
+.card1 {
+    background-color: orange;
+}
+.sal-text {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+.repeating {
+    opacity: 75%;
+}
+.card2 {
+    background-color: pink;
+}
+.card3 {
+    background-color: red;
+}
+.card8 {
+    background-color: magenta;
+}
+.card7 {
+    background-color: darkgrey;
+}
+.card9 {
+    background-color: lightslategray;
+}
+.card4 {
+    background-color: green;
+}
+.card5 {
+    background-color: purple;
+}
+.card6 {
+    background-color: lightblue;
+}
