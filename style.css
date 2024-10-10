@@ -6,6 +6,7 @@
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
+    color: black;
 }
 .repeating {
     opacity: 75%;
@@ -32,5 +33,39 @@
     background-color: plum;
 }
 .card6 {
-    background-color: lightblue;
+    background-color: blue;
+}
+
+.btn1:hover {
+    box-shadow: 0px 0px 30px 10px blue;
+}
+.btn2:hover {
+    box-shadow: 0px 0px 40px 10px yellowgreen;
+}
+.btn3:hover {
+    box-shadow: 0px 0px 30px 10px turquoise;
+}
+.btn4:hover {
+    box-shadow: 0px 0px 30px 10px magenta;
+}
+.btn5:hover {
+    box-shadow: 0px 0px 30px 10px purple;
+}
+.btn6:hover {
+    box-shadow: 0px 0px 30px 10px darkgreen;
+}
+.btn7:hover {
+    box-shadow: 0px 0px 30px 10px maroon;
+}
+.btn8:hover {
+    box-shadow: 0px 0px 30px 10px yellow;
+}
+.btn9:hover {
+    box-shadow: 0px 0px 30px 10px darkred;
+}
+.butten {
+    border-radius: 50px;
+}
+.navbar {
+    background: honeydew;
 }
